@@ -1,0 +1,66 @@
+{
+  "davareco meno kenty": {
+    "vitorias": 0,
+    "derrotas": 0,
+    "saldo": 0,
+    "aproveitamento": 0,
+    "rank": "A",
+    "imagem": "davareco_meno_kenty.png"
+  },
+  "dudu habibs": {
+    "vitorias": 0,
+    "derrotas": 0,
+    "saldo": 0,
+    "aproveitamento": 0,
+    "rank": "S",
+    "imagem": "dudu_habibs.png"
+  },
+  "elo tostada": {
+    "vitorias": 0,
+    "derrotas": 0,
+    "saldo": 0,
+    "aproveitamento": 0,
+    "rank": "B",
+    "imagem": "elo_tostada.png"
+  },
+  "vini pitagoras": {
+    "vitorias": 0,
+    "derrotas": 0,
+    "saldo": 0,
+    "aproveitamento": 0,
+    "rank": "B",
+    "imagem": "vini_pitagoras.png"
+  },
+  "ana carlão": {
+    "vitorias": 0,
+    "derrotas": 0,
+    "saldo": 0,
+    "aproveitamento": 0,
+    "rank": "B",
+    "imagem": "ana_carlao.png"
+  },
+  "ph bigode": {
+    "vitorias": 0,
+    "derrotas": 0,
+    "saldo": 0,
+    "aproveitamento": 0,
+    "rank": "A",
+    "imagem": "ph_bigode.png"
+  },
+  "lc rei delas": {
+    "vitorias": 0,
+    "derrotas": 0,
+    "saldo": 0,
+    "aproveitamento": 0,
+    "rank": "D",
+    "imagem": "lc_rei_delas.png"
+  },
+  "yan papagaio": {
+    "vitorias": 0,
+    "derrotas": 0,
+    "saldo": 0,
+    "aproveitamento": 0,
+    "rank": "C",
+    "imagem": "yan_papagaio.png"
+  }
+}
